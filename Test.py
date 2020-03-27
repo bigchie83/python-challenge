@@ -1,1 +1,1 @@
-Test.py
+print("Hello")
